@@ -144,8 +144,8 @@ http://localhost/umkm_preorder/public
 ![pict](pict/18.png)
 
 ## Dokumentasi
-- Dokumentasi PDF 
-- Video Demo di YouTube 
+- [Dokumentasi PDF](https://drive.google.com/file/d/1AK6RAWiOsJd3gDvD9lP2s-IQEV-36Bxq/view?usp=drive_link) 
+- [Video Demo di YouTube](https://youtu.be/VtfpYL5ARyQ?si=cyWwQBwUzOaC53Rh)
 
 ## Developer
 Nama : Bagus Sanjaya
