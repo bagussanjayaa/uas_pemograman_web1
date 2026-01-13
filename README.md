@@ -48,6 +48,7 @@ Aplikasi ini memiliki dua peran pengguna, yaitu **Admin** dan **User**, dengan h
 
 ## Struktur Folder
 UMKM_PREORDER
+`
 │
 ├── app
 │ ├── controllers
@@ -90,7 +91,7 @@ UMKM_PREORDER
   │ └── gambar
   ├── .htaccess
   └── index.php
-
+`
 
 ## Teknologi yang Digunakan
 - PHP Native (MVC)
@@ -145,6 +146,8 @@ http://localhost/umkm_preorder/public
 - Video Demo di YouTube 
 
 ## Developer
-Nama : Bagus Sanjaya 
+Nama : Bagus Sanjaya
+
 Mata Kuliah : Pemograman Web1 
+
 Dosen : Agung Nugroho, S.Kom., M.Kom.
