@@ -47,6 +47,8 @@ Aplikasi ini memiliki dua peran pengguna, yaitu **Admin** dan **User**, dengan h
 - Validasi session login
 
 ## Struktur Folder
+
+```
 UMKM_PREORDER
 │
 ├── app
@@ -91,7 +93,7 @@ UMKM_PREORDER
     │
     ├── .htaccess
     └── index.php
-
+```
 
 ## Teknologi yang Digunakan
 - PHP Native (MVC)
