@@ -47,8 +47,8 @@ Aplikasi ini memiliki dua peran pengguna, yaitu **Admin** dan **User**, dengan h
 - Validasi session login
 
 ## Struktur Folder
-UMKM_PREORDER
 `
+UMKM_PREORDER
 │
 ├── app
 │ ├── controllers
@@ -111,35 +111,35 @@ http://localhost/umkm_preorder/public
 ## Screenshot Aplikasi
 - Halaman Login
 
-![pict](10.png)
+![pict](pict/10.png)
 
 - Halaman Produk (User)
 
-![pict](11.png)
+![pict](pict/11.png)
 
-![pict](12.png)
+![pict](pict/12.png)
 
 - Halaman Pesanan User
 
-![pict](13.png)
+![pict](pict/13.png)
 
 - Halaman Produk Admin
 
-![pict](14.png)
+![pict](pict/14.png)
 
-![pict](15.png)
+![pict](pict/15.png)
 
 - Form Tambah Produk
 
-![pict](16.png)
+![pict](pict/16.png)
 
 - Halaman Pesanan Admin
 
-![pict](17.png)
+![pict](pict/17.png)
 
 - Edit Produk
 
-![pict](18.png)
+![pict](pict/18.png)
 
 ## Dokumentasi
 - Dokumentasi PDF 
