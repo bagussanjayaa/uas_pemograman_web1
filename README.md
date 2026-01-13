@@ -47,51 +47,51 @@ Aplikasi ini memiliki dua peran pengguna, yaitu **Admin** dan **User**, dengan h
 - Validasi session login
 
 ## Struktur Folder
-`
 UMKM_PREORDER
 │
 ├── app
-│ ├── controllers
-| | ├── AuthController.php
-| | ├── PesananController.php
-| | └── ProdukController.php
-| |
-│ ├── models
-| | ├── Pesanan.php
-| | ├── Produk.php
-| | └── User.php
-| |
-│ ├── views
-| | ├── auth
-| | | └── login.php
-| | |
-| | ├── layout
-| | | ├── footer.php
-| | | └── header.php
-| | |
-| | ├── pesanan
-| | | ├── edit.php
-| | | ├── form.php
-| | | └── index.php
-| | |
-| | └── produk
-| |   ├── form.php
-| |   └── index.php
-| |
-│ └── core
-|   ├── Auth.php
-|   ├── Database.php
-|   └── Router.php
+│   ├── controllers
+│   │   ├── AuthController.php
+│   │   ├── PesananController.php
+│   │   └── ProdukController.php
+│   │
+│   ├── models
+│   │   ├── Pesanan.php
+│   │   ├── Produk.php
+│   │   └── User.php
+│   │
+│   ├── views
+│   │   ├── auth
+│   │   │   └── login.php
+│   │   │
+│   │   ├── layout
+│   │   │   ├── header.php
+│   │   │   └── footer.php
+│   │   │
+│   │   ├── pesanan
+│   │   │   ├── index.php
+│   │   │   ├── form.php
+│   │   │   └── edit.php
+│   │   │
+│   │   └── produk
+│   │       ├── index.php
+│   │       └── form.php
+│   │
+│   └── core
+│       ├── Auth.php
+│       ├── Database.php
+│       └── Router.php
 │
 ├── config
-| └── config.php
+│   └── config.php
 │
 └── public
-  ├── assets
-  │ └── gambar
-  ├── .htaccess
-  └── index.php
-`
+    ├── assets
+    │   └── gambar
+    │
+    ├── .htaccess
+    └── index.php
+
 
 ## Teknologi yang Digunakan
 - PHP Native (MVC)
